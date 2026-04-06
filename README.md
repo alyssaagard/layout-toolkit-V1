@@ -18,8 +18,8 @@ Built as an open-source alternative for web app publishing workflows in word pro
 
 ### Prerequisites
 
-- Microsoft Word (desktop app for Windows or Mac, or the free web version at office.com) (This version is most compatable for the Word web application.)
-- For the desktop add in, see 
+- Microsoft Word (desktop app for Windows or Mac, or the free web version at office.com) (This version is most compatible for the Word web application.)
+- For the desktop add in, see https://github.com/alyssaagard/layout-toolkit-V2. 
 - For self-hosting during development: Node.js 18+
 
 ### Quick Start (Users)
