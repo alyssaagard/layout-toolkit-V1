@@ -1,8 +1,8 @@
-# Layout Toolkit V.1
+# Layout Toolkit V1
 
 A free, open-source word processing add-in that brings desktop publishing features to your documents. Create brochures, newsletters, event programs, business cards, and flyers with professional templates, brand customization, and built-in folding guides.
 
-Built as an open-source alternative for desktop publishing workflows in word processors.
+Built as an open-source alternative for web app publishing workflows in word processors.
 
 ## Features
 
