@@ -18,7 +18,8 @@ Built as an open-source alternative for desktop publishing workflows in word pro
 
 ### Prerequisites
 
-- Microsoft Word (desktop app for Windows or Mac, or the free web version at office.com)
+- Microsoft Word (desktop app for Windows or Mac, or the free web version at office.com) (This version is most compatable for the Word web application.)
+- For the desktop add in, see 
 - For self-hosting during development: Node.js 18+
 
 ### Quick Start (Users)
