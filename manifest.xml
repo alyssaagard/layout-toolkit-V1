@@ -13,8 +13,8 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Layout Toolkit" />
   <Description DefaultValue="Layout Toolkit is a free, open-source word processing add-in that brings desktop publishing features to your documents. Create professional brochures, newsletters, event programs, business cards, and flyers with ready-made templates, custom branding, and built-in folding guides. Designed for nonprofits, educators, and small organizations." />
-  <IconUrl DefaultValue="https://localhost:3000/assets/icon-32.png" />
-  <HighResolutionIconUrl DefaultValue="https://localhost:3000/assets/icon-64.png" />
+  <IconUrl DefaultValue="https://alyssaagard.github.io/layout-toolkit/assets/icon-32.png" />
+  <HighResolutionIconUrl DefaultValue="https://alyssaagard.github.io/layout-toolkit/assets/icon-64.png" />
   <SupportUrl DefaultValue="https://github.com/alyssaagard" />
 
   <Hosts>
@@ -22,7 +22,7 @@
   </Hosts>
 
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://localhost:3000/taskpane.html" />
+    <SourceLocation DefaultValue="https://alyssaagard.github.io/layout-toolkit/taskpane.html" />
   </DefaultSettings>
 
   <Permissions>ReadWriteDocument</Permissions>
@@ -75,12 +75,12 @@
 
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://localhost:3000/assets/icon-16.png" />
-        <bt:Image id="Icon.32x32" DefaultValue="https://localhost:3000/assets/icon-32.png" />
-        <bt:Image id="Icon.80x80" DefaultValue="https://localhost:3000/assets/icon-80.png" />
+        <bt:Image id="Icon.16x16" DefaultValue="https://alyssaagard.github.io/layout-toolkit/assets/icon-16.png" />
+        <bt:Image id="Icon.32x32" DefaultValue="https://alyssaagard.github.io/layout-toolkit/assets/icon-32.png" />
+        <bt:Image id="Icon.80x80" DefaultValue="https://alyssaagard.github.io/layout-toolkit/assets/icon-80.png" />
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://localhost:3000/taskpane.html" />
+        <bt:Url id="Taskpane.Url" DefaultValue="https://alyssaagard.github.io/layout-toolkit/taskpane.html" />
         <bt:Url id="GetStarted.LearnMoreUrl" DefaultValue="https://github.com/alyssaagard" />
       </bt:Urls>
       <bt:ShortStrings>
