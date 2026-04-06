@@ -12,7 +12,7 @@
   <ProviderName>Alyssa I. Agard</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Layout Toolkit" />
-  <Description DefaultValue="Layout Toolkit is a free, open-source word processing add-in that brings desktop publishing features to your documents. Create professional brochures, newsletters, event programs, business cards, and flyers with ready-made templates, custom branding, and built-in folding guides. Designed for nonprofits, educators, and small organizations." />
+  <Description DefaultValue="Create professional brochures, newsletters, event programs, business cards, and flyers with ready-made templates, custom branding, and built-in folding guides." />
   <IconUrl DefaultValue="https://alyssaagard.github.io/layout-toolkit/assets/icon-32.png" />
   <HighResolutionIconUrl DefaultValue="https://alyssaagard.github.io/layout-toolkit/assets/icon-64.png" />
   <SupportUrl DefaultValue="https://github.com/alyssaagard" />
